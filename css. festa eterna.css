@@ -1,0 +1,81 @@
+
+
+.logofesta {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  header {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .link1,
+  .link2 {
+    color: turquoise;
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 20px;
+  }
+  
+  body {
+    background-color: darkviolet;
+  }
+  
+  p {
+    margin: 0 auto;
+    max-width: 800px;
+    font-size: 25px;
+    color: #f0f8ff;
+  }
+  
+  .imag {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .capa {
+    width: 400px;
+    height: auto;
+    margin: 20px;
+  }
+  
+  .capaz {
+    width: 300px;
+    height: auto;
+    margin: 20px;
+  }
+  
+  .dial {
+    font-style: italic;
+    color: aliceblue;
+    font-size: 25px;
+    background-color: black;
+    padding: 20px;
+    border-radius: 30px;
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .siga {
+    overflow: auto;
+  }
+  
+  .aut {
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+  }
+  
+  footer {
+    color: aliceblue;
+    padding: 20px;
+    background-color: rgb(15, 0, 75);
+  }
